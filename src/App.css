@@ -1,10 +1,11 @@
 .App {
   text-align: center;
-}
-
-img {
-  width: 80%;
-  height: 80%;
+  padding: 20%;
+  background-image: url('https://66.media.tumblr.com/ae8ea07bb2f886d78dcf1b0022ae9326/tumblr_puub28swA31uuy2i8o1_1280.gifv');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
